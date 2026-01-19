@@ -16,7 +16,6 @@ I believe in **learning by building real projects**, not just following tutorial
 - Python  
 - JavaScript
 - C++
-- C
 
 ### Data Analysis
 - Pandas, NumPy  
@@ -41,7 +40,7 @@ I believe in **learning by building real projects**, not just following tutorial
 
 ### 🔹 Transaction Data Analysis
 **ATM Transaction Analysis using Python**
-
+• Identified transaction trends across weekdays, holidays, and ATM locations
 - Analyzed ATM transaction data with 11,000+ records  
 - Cleaned inconsistent date formats and handled missing values  
 - Extracted time-based features (year, month, weekday)  
@@ -87,3 +86,5 @@ https://github.com/Sahaj915/glass-card-search
 - GitHub: https://github.com/Sahaj915  
 
 ⭐ Always open to learning, improving, and new opportunities.
+📌 Open to internships, placements, and learning opportunities.
+
