@@ -1,8 +1,10 @@
 # Sahaj 👋  
-### Data Analysis | Python | Frontend Development
+### Data Analysis | Python | Frontend (HTML • CSS • JavaScript) | Data Structures and Algorithms
 
-I’m a B.Tech Data Science student who enjoys working at the intersection of **data and web development**.  
-I like breaking down real-world data, finding patterns, and also building clean, responsive user interfaces.
+
+I’m a B.Tech Data Science student interested in working at the intersection of data and web development.  
+I enjoy analyzing real-world data to find patterns and building clean, responsive user interfaces.
+
 
 I believe in **learning by building real projects**, not just following tutorials.
 
