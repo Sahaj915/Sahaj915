@@ -1,90 +1,60 @@
-# Sahaj 👋  
-### Data Analysis | Python | Frontend (HTML • CSS • JavaScript) | Data Structures and Algorithms
-
-
-I’m a B.Tech Data Science student interested in working at the intersection of data and web development.  
-I enjoy analyzing real-world data to find patterns and building clean, responsive user interfaces.
-
-
-I believe in **learning by building real projects**, not just following tutorials.
+<!-- BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sahaj%20Singh&fontSize=48&fontAlignY=40)
 
 ---
 
-## 🛠️ Skills & Tools
+## Hi 👋 I'm Sahaj  
+🎓 B.Tech Data Science Student  
+📊 Data Analysis | Python | Frontend (HTML • CSS • JavaScript)  
+🧠 DSA | Problem Solving | Real-World Projects  
+
+I enjoy analyzing real-world data to uncover insights and building clean, responsive user interfaces.  
+I believe in **learning by building**, not just following tutorials.
+
+---
+
+## 🛠 Tech Stack
 
 ### Programming & Scripting
-- Python  
-- JavaScript
-- C++
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ### Data Analysis
-- Pandas, NumPy  
-- Matplotlib  
-- Data Cleaning & Exploratory Data Analysis (EDA)  
-- Feature Engineering  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 
-### Frontend Development
-- HTML  
-- CSS  
-- JavaScript  
-
-### Tools & Platforms
-- Jupyter Notebook  
-- Git & GitHub  
-- VS Code
-  
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
-## 📊 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 Transaction Data Analysis
-**ATM Transaction Analysis using Python**
-• Identified transaction trends across weekdays, holidays, and ATM locations
-- Analyzed ATM transaction data with 11,000+ records  
-- Cleaned inconsistent date formats and handled missing values  
-- Extracted time-based features (year, month, weekday)  
-- Compared transaction behavior on working days vs holidays  
-
-🔗 Repository:  
-https://github.com/Sahaj915/Transaction-Data-Analysis
+![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahaj915&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahaj915&layout=compact&theme=radical)
 
 ---
 
-### 🔹 Zomato Restaurant Clustering & Sentiment Analysis
-**Customer behavior insights from restaurant data**
+## 📌 Featured Projects
 
-- Performed clustering to group restaurants  
-- Applied sentiment analysis on customer reviews  
-- Identified factors affecting ratings and customer preferences  
+- 🏏 **IPL 2022 Data Analysis**  
+  Python, Pandas, EDA  
+  🔗 https://github.com/Sahaj915/IPL_2022_Data_Analysis
 
-🔗 Repository:  
-https://github.com/Sahaj915/Zomato-Restaurant-Clustering-and-Sentiment-Analysis
-
----
-
-### 🔹 Frontend Mini Projects
-**HTML, CSS & JavaScript based UI projects**
-
-- Built responsive layouts using HTML & CSS  
-- Implemented interactivity using JavaScript  
-- Focused on clean UI and usability  
-
-🔗 Repository:  
-https://github.com/Sahaj915/glass-card-search
+- 🌐 **Frontend Projects**  
+  HTML, CSS, JavaScript  
+  🔗 https://github.com/Sahaj915
 
 ---
 
-## 📈 Currently Learning
-- Advanced SQL for analytics  
-- Data visualization and storytelling  
-- Machine learning fundamentals  
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Sahaj915)
 
 ---
 
-## 📬 Connect
-- GitHub: https://github.com/Sahaj915  
-
-⭐ Always open to learning, improving, and new opportunities.
-📌 Open to internships, placements, and learning opportunities.
-
+⭐ *Thanks for visiting my profile!*
