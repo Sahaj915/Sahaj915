@@ -37,6 +37,6 @@ I enjoy building things, learning from mistakes, and improving through real-worl
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
-
 ![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahaj915&show_icons=true&theme=radical)
+
 
