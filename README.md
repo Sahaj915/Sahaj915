@@ -1,4 +1,4 @@
-![MasterHead](![Uploading image.png…]()
+![MasterHead](./banner.png)
 )
 
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
