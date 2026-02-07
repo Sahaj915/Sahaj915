@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
 
 <p align="center">
-Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub
+Hey there! I'm a curious mind who loves exploring data and discovering the stories hidden within it.  
+I enjoy building things, learning from mistakes, and improving through real-world projects.
+
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
@@ -34,3 +36,6 @@ Hey there! I'm a curious mind who loves exploring the world of data and discover
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
+![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahaj915&show_icons=true&theme=radical)
+
+
