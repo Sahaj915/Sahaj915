@@ -15,12 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thepysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepysolanki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29832295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29832295" height="30" width="40" /></a>
-<a href="https://kaggle.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
-<a href="https://medium.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pysolanki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/27abhi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pysolanki](https://www.linkedin.com/in/sahaj-b1862a320/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/27abhi27](https://leetcode.com/u/gdVecTzBIP/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
