@@ -1,4 +1,5 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![MasterHead](![Uploading image.png…]()
+)
 
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
 
@@ -31,7 +32,6 @@ Hey there! I'm a curious mind who loves exploring the world of data and discover
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
