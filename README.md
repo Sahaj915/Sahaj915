@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Python, Front End Development**
 
-- 📫 How to reach me **sahahj2804@gmail.com**
+- 📫 How to reach me **sahaj2804@gmail.com**
 
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
