@@ -38,5 +38,3 @@ I enjoy building things, learning from mistakes, and improving through real-worl
 </p>
 
 ![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahaj915&show_icons=true&theme=radical)
-
-
