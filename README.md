@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
 
 <p align="center">
-I’m a B.Tech Data Science student who enjoys working with real-world data to uncover insights and build meaningful solutions.  
-I like experimenting with ideas, learning by building projects, and improving my problem-solving skills every day.
+Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
