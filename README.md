@@ -1,60 +1,29 @@
-<!-- BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sahaj%20Singh&fontSize=48&fontAlignY=40)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+<h1 align="center">Hi 👋, I'm Sahaj</h1>
+<h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
 
-## Hi 👋 I'm Sahaj  
-🎓 B.Tech Data Science Student  
-📊 Data Analysis | Python | Frontend (HTML • CSS • JavaScript)  
-🧠 DSA | Problem Solving | Real-World Projects  
+<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="thepysolanki" /></a> </p>
 
-I enjoy analyzing real-world data to uncover insights and building clean, responsive user interfaces.  
-I believe in **learning by building**, not just following tutorials.
+- 💬 Ask me about **Data Science, Python, PostgreSQL**
 
----
+- 📫 How to reach me **abhisheksinghsolanki2727@gmail.com**
 
-## 🛠 Tech Stack
+- ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thepysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepysolanki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29832295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29832295" height="30" width="40" /></a>
+<a href="https://kaggle.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
+<a href="https://medium.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pysolanki" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/27abhi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
+</p>
 
-### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahaj915&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahaj915&layout=compact&theme=radical)
-
----
-
-## 📌 Featured Projects
-
-- 🏏 **IPL 2022 Data Analysis**  
-  Python, Pandas, EDA  
-  🔗 https://github.com/Sahaj915/IPL_2022_Data_Analysis
-
-- 🌐 **Frontend Projects**  
-  HTML, CSS, JavaScript  
-  🔗 https://github.com/Sahaj915
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Sahaj915)
-
----
-
-⭐ *Thanks for visiting my profile!*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pysolanki&show_icons=true&locale=en&layout=compact" alt="pysolanki" /></p>
