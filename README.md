@@ -9,7 +9,7 @@ I enjoy building things, learning from mistakes, and improving through real-worl
 
 <img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-- 💬 Ask me about **Data Science, Python, and Frontend Development**
+- 💬 Ask me about **Data Science, Python, Javascript, Express, Node.js and Web Development**
 - 📫 Reach me at **sahaj2804@gmail.com**
 - ⚡ Fun fact: **I enjoy wrestling with messy datasets until they finally make sense**
 
